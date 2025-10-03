@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "question": "What is the capital of France?",
+    "answer": "Paris",
+    "topic": "Geography",
+    "difficulty": "easy"
+  },
+  {
+    "id": 2,
+    "question": "What is 2 + 2?",
+    "answer": "4",
+    "topic": "Math",
+    "difficulty": "easy"
+  },
+  {
+    "id": 3,
+    "question": "What is the boiling point of water in Celsius?",
+    "answer": "100",
+    "topic": "Science",
+    "difficulty": "easy"
+  },
+  {
+    "id": 4,
+    "question": "Who wrote '1984'?",
+    "answer": "George Orwell",
+    "topic": "Literature",
+    "difficulty": "medium"
+  },
+  {
+    "id": 5,
+    "question": "What does HTTP stand for?",
+    "answer": "HyperText Transfer Protocol",
+    "topic": "Tech",
+    "difficulty": "medium"
+  },
+    {
+        "id": 6,
+        "question": "What is the derivative of sin(x)?",
+        "answer": "cos(x)",
+        "topic": "Math",
+        "difficulty": "hard"
+    },
+    {
+        "id": 7,
+        "question": "What is the powerhouse of the cell?",
+        "answer": "Mitochondria",
+        "topic": "Science",
+        "difficulty": "easy"
+    },
+    {
+        "id": 8,
+        "question": "Who painted the Mona Lisa?",
+        "answer": "Leonardo da Vinci",
+        "topic": "Art",
+        "difficulty": "medium"
+    },
+    {
+        "id": 9,
+        "question": "What is the largest planet in our solar system?",
+        "answer": "Jupiter",
+        "topic": "Science",
+        "difficulty": "easy"
+    },
+    {
+        "id": 10,
+        "question": "What year did the Berlin Wall fall?",
+        "answer": "1989",
+        "topic": "History",
+        "difficulty": "medium"
+    }
+]
